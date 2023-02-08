@@ -1,0 +1,75 @@
+h1 {
+    display: block;
+	background-color: #d3d2d2;
+	color: rgb(102, 0, 68);
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1.5em;
+	padding: 6px 4px;
+	margin: auto;
+	border-right: 2px solid #999999;
+	border-bottom: 2px solid #999999;
+	border-top-width: 0px;
+	border-left-width: 0px;
+    width: 200px;
+
+}
+
+h2 {
+    display: block;
+	background-color: #d3d2d2;
+	color: rgb(102, 0, 68);
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1.5em;
+	padding: 6px 4px;
+	margin: auto;
+	border-right: 2px solid #999999;
+	border-bottom: 2px solid #999999;
+	border-top-width: 0px;
+	border-left-width: 0px;
+    width: 200px;
+}
+
+img {
+    height: auto;
+    width: auto;
+    max-width: 400px;
+    max-height: 400px;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.fcc-btn {
+    display: block;
+	background-color: #d3d2d2;
+	color: rgb(102, 0, 68);
+	text-decoration: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1.5em;
+	padding: 6px 4px;
+	margin: auto;
+	border-right: 2px solid #999999;
+	border-bottom: 2px solid #999999;
+	border-top-width: 0px;
+	border-left-width: 0px;
+    width: 125px;
+   
+
+}
+
+.boxed {
+    border: 2px solid #999999;
+    color:rgb(102, 0, 68);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 6px 4px;
+
+   
+}
